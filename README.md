@@ -1,6 +1,6 @@
 # Text Generator (Numpy RNN)
 
-The code builds an RNN to generate sentences using only numpy. Watch [this](https://nodejs.org/) video by Ajay Halthor to see a live demo and understand the intuition behind Recurrent Neural Networks.
+The code builds an RNN to generate sentences using only numpy. Watch [this](https://www.youtube.com/watch?v=yZv_yRgOvMg) video by Ajay Halthor to see a live demo and understand the intuition behind Recurrent Neural Networks.
 
 ### Dependencies
   - python=3.6.0
